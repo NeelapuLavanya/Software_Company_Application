@@ -34,7 +34,7 @@ function App() {
       }
 
       alert("User registered successfully.");
-      // Optionally, you can reset the form fields after successful submission
+     
       setProjectName('');
       setWebsite('');
       setUserProfile('');
